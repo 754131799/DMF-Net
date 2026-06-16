@@ -46,11 +46,11 @@
 If you find this work useful, please cite:
 
 ```bibtex
-@article{dmf-net2025,
+@article{XXXX,
   title={DMF-Net: Dual-Modal Fusion Network for MRI/PET Multimodal Brain Region Segmentation},
   author={},
   journal={},
-  year={2025},
+  year={2026},
   note={Under review}
 }
 ```
